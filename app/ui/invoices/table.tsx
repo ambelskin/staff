@@ -61,16 +61,16 @@ export default async function InvoicesTable({
                   Paciente
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Número de Teléfono
+                  Email
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
                   Edad
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Sexo
+                  Última visita
                 </th>
                 <th scope="col" className="px-3 py-5 font-medium">
-                  Email
+                  Estado
                 </th>
                 <th scope="col" className="relative py-3 pl-6 pr-3">
                   <span className="sr-only">Edit</span>

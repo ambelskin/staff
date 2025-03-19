@@ -97,7 +97,7 @@ export default function Form({
                   htmlFor="pending"
                   className="ml-2 flex cursor-pointer items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1.5 text-xs font-medium text-gray-600"
                 >
-                  Pending <ClockIcon className="h-4 w-4" />
+                   <ClockIcon className="h-4 w-4" />
                 </label>
               </div>
               <div className="flex items-center">
@@ -112,7 +112,7 @@ export default function Form({
                   htmlFor="paid"
                   className="ml-2 flex cursor-pointer items-center gap-1.5 rounded-full bg-green-500 px-3 py-1.5 text-xs font-medium text-white"
                 >
-                  Paid <CheckIcon className="h-4 w-4" />
+                 <CheckIcon className="h-4 w-4" />
                 </label>
               </div>
             </div>

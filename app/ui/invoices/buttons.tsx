@@ -5,7 +5,7 @@ import { deleteInvoice } from '@/app/lib/actions';
 export function CreateInvoice() {
   return (
     <Link
-      href="/dashboard/invoices/create"
+      href="/dashboard/invoices" //agregar despues /create
       className="flex h-10 items-center rounded-lg bg-[#0D7BFF] px-4 text-sm font-medium text-white transition-colors hover:bg-[#FFC5CF] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#0D7BFF]"
     >
       <span className="hidden md:block">Agregar Paciente</span>{' '}

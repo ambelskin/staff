@@ -52,7 +52,7 @@ export default async function CustomersTable({
                         <p className="font-medium">{customer.total_pending}</p>
                       </div>
                       <div className="flex w-1/2 flex-col">
-                        <p className="text-xs">Paid</p>
+                        <p className="text-xs">pagado</p>
                         <p className="font-medium">{customer.total_paid}</p>
                       </div>
                     </div>
