@@ -18,7 +18,7 @@ const links = [
     href: '/dashboard/invoices',
     icon: UserGroupIcon,
   },
-  { name: 'Inventario', href: '/dashboard/customers', icon: ArchiveBoxArrowDownIcon },
+  //{ name: 'Inventario', href: '/dashboard/customers', icon: ArchiveBoxArrowDownIcon },
 ];
 
 export default function NavLinks() {
